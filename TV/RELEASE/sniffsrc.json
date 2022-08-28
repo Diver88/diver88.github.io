@@ -9,7 +9,7 @@
 "sites":[
 {"key": "csp_XYQBiu_23影院","name":"23影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://diver88.github.io/TV/XYQXB/23影院.json"},
 {"key": "csp_XYQBiu_迷你库","name":"迷你库(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://diver88.github.io/TV/XYQXB/miniku.json"},
-{"key": "csp_XYQBiu_凌云影视","name":"凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://diver88.github.io/TV/XYQXB/lyys(xyq).json},
+{"key": "csp_XYQBiu_凌云影视","name":"凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://diver88.github.io/TV/XYQXB/lyys(xyq).json"},
 {"key": "csp_XYQBiu_万能影视","name":"万能影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://diver88.github.io/TV/XYQXB/wnys(xyq).json"},
 {"key": "csp_XYQBiu_影视工厂","name":"影视工厂(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://diver88.github.io/TV/XYQXB/影视工厂.json"},
 {"key": "csp_XYQBiu_555影视","name":"555影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://diver88.github.io/TV/XYQXB/555影视.json"},
