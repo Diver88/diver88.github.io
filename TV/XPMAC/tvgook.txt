@@ -1,0 +1,1 @@
+{"key":"csp_xpath_tvgook","name":"Tvgook(XPM)","type":3,"api":"csp_XPathMacTvgook","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://tvgook.json"} 

@@ -1,0 +1,90 @@
+{
+"dcVipFlag": "true",
+"pCfgJs": "https://www.tvgook.com/js/playerconfig.js",
+"pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+"dcShow2Vip": {},
+"dcPlayUrl": "true",
+ "ua": "",
+// 首页地址 用于获取 分类和首页推荐 
+"homeUrl": "https://www.tvgook.com",
+ // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  
+"cateManual": {"드라마": "1", "연예오락": "2", "영화": "17", "시사": "3", "음악": "4"},
+// 首页推荐视频的节点
+"homeVodNode": "//div[contains(@class,'list')]/ul/li",
+// 首页推荐视频的名称
+"homeVodName": "/a/p[contains(@class,'tit')]/text()",
+ // 二次处理正则
+"homeVodNameR": "",
+// 首页推荐视频的id
+"homeVodId": "/a/@href",
+// 二次处理正则
+"homeVodIdR": "",
+  // 首页推荐视频的图w
+"homeVodImg": "/a/div/img[contains(@class,'img')]/@src",
+   // 二次处理正则
+"homeVodImgR": "",
+   // 首页推荐视频的简介
+"homeVodMark": "/a/p[contains(@class,'date')]/span/text()",
+  // 二次处理正则
+  "homeVodMarkR": "",
+  // 分类页地址 {cateId} 分类id {catePg} 当前页
+"cateUrl": "https://www.tvgook.com/vod-list-id-{cateId}-pg-{catePg}-order--by--class--year--letter--area--lang-.html",
+ // 同上面的homeVod字段 分类列表中的视频信息
+"cateVodNode": "//div[contains(@class,'list')][1]/ul/li",
+"cateVodName": "/a/p[contains(@class,'tit')]/text()",
+"cateVodId": "/a/@href",
+"cateVodIdR": "",
+"cateVodImg": "/a/div/img[contains(@class,'img')]/@src",
+"cateVodImgR": "",
+"cateVodMark": "/a/p[contains(@class,'date')]/span/text()",
+   // 详情页地址 用于获取详情页信息 及 播放列表和地址
+"dtUrl": "https://www.tvgook.com{vid}",
+ // 详情节点
+"dtNode": "//body",
+ // 视频名
+"dtName": "//div[6]/div/div/div[2]/div/p[1]/text()",
+        "dtNameR": "",
+ // 视频分类 
+"dtCate": "//span[contains(text(),'类型')]/following-sibling::*/text()",
+"dtCateR": "",
+// 视频年份
+"dtYear": "//span[contains(text(),'年份')]/following-sibling::*/text()",
+"dtYearR": "",
+// 视频地区
+"dtArea": "//span[contains(text(),'地区')]/following-sibling::*/text()",
+"dtAreaR": "",
+// 视频图片
+"dtImg": "//div[contains(@class,'play_info')]/div/div/div[2]/div/img/@src",
+"dtImgR": "",
+// 播放源节点  
+"dtFromNode": "//div[7]/div/div",
+// 播放源名称   
+"dtFromName": "/div[1]/p/text()",
+// 二次处理正则
+"dtFromNameR": "",
+// 播放列表节点
+"dtUrlNode": "//div[7]/div/div/div[2]/ul",
+ // 播放地址节点 
+"dtUrlSubNode": "/li/a",
+ // 播放地址
+"dtUrlId": "/@href",
+// 二次处理正则
+"dtUrlIdR": "",
+ // 剧集名称
+"dtUrlName": "/p/text()",
+ // 二次处理正则
+"dtUrlNameR": "",
+ // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+"playUrl":"https://www.tvgook.com{playUrl}",
+ // 解析webview的user-agent
+"playUa": "",
+ // 搜索地址
+"searchUrl": "index.php/vod/search.html?wd={wd}",
+ // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
+"scVodNode": "//ul[contains(@class,'vodlist')]/li[contains(@class,'vodlist')]/a[@title]",
+"scVodName": "/@title",
+"scVodId": "/@href",
+"scVodIdR": "index.php/vod/detail/id/(\\d+).html",
+"scVodImg": "/@data-original",
+"scVodMark": "/span[@class='pic_text text_right']/text()"
+ }
