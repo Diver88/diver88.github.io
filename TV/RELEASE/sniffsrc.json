@@ -7,16 +7,16 @@
 
 
 "sites":[
-{"key": "csp_XYQBiu_23影院","name":"23影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://diver88.github.io/TV/XYQXB/23影院.json","jar":"http://diver88.github.io/TV/XYQXB/XYQBiu_0828.jar;md5;8B3F5374203DAB31865E0064314CB4D6"},
-{"key": "csp_XYQBiu_迷你库","name":"迷你库(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://diver88.github.io/TV/XYQXB/miniku.json","jar":"http://diver88.github.io/TV/XYQXB/XYQBiu_0828.jar;md5;8B3F5374203DAB31865E0064314CB4D6"},
-{"key": "csp_XYQBiu_凌云影视","name":"凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://diver88.github.io/TV/XYQXB/lyys(xyq).json","jar":"http://diver88.github.io/TV/XYQXB/XYQBiu_0828.jar;md5;8B3F5374203DAB31865E0064314CB4D6"},
-{"key": "csp_XYQBiu_万能影视","name":"万能影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://diver88.github.io/TV/XYQXB/wnys(xyq).json","jar":"http://diver88.github.io/TV/XYQXB/XYQBiu_0828.jar;md5;8B3F5374203DAB31865E0064314CB4D6"},
-{"key": "csp_XYQBiu_影视工厂","name":"影视工厂显示线路名(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://diver88.github.io/TV/XYQXB/影视工厂.json","jar":"http://diver88.github.io/TV/XYQXB/XYQBiu_0828.jar;md5;8B3F5374203DAB31865E0064314CB4D6"},
-{"key": "csp_XYQBiu_555影视","name":"555影视搜索suggest格式(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://diver88.github.io/TV/XYQXB/555影视.json","jar":"http://diver88.github.io/TV/XYQXB/XYQBiu_0828.jar;md5;8B3F5374203DAB31865E0064314CB4D6"},
-{"key": "csp_XYQBiu_剧荒","name": "剧荒第一页不含页码写法(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://diver88.github.io/TV/XYQXB/剧荒.json","jar":"http://diver88.github.io/TV/XYQXB/XYQBiu_0828.jar;md5;8B3F5374203DAB31865E0064314CB4D6"},
+{"key": "csp_XYQBiu_23影院","name":"23影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://diver88.github.io/TV/XYQXB/23影院.json"},
+{"key": "csp_XYQBiu_迷你库","name":"迷你库(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://diver88.github.io/TV/XYQXB/miniku.json"},
+{"key": "csp_XYQBiu_凌云影视","name":"凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://diver88.github.io/TV/XYQXB/lyys(xyq).json},
+{"key": "csp_XYQBiu_万能影视","name":"万能影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://diver88.github.io/TV/XYQXB/wnys(xyq).json"},
+{"key": "csp_XYQBiu_影视工厂","name":"影视工厂(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://diver88.github.io/TV/XYQXB/影视工厂.json"},
+{"key": "csp_XYQBiu_555影视","name":"555影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://diver88.github.io/TV/XYQXB/555影视.json"},
+{"key": "csp_XYQBiu_剧荒","name": "剧荒(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://diver88.github.io/TV/XYQXB/剧荒.json"},
 //开启筛选注意配置filterable要设置成1
-{"key": "csp_XYQBiu_神马","name": "神马筛选测试，这个网站无法嗅探播放(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://diver88.github.io/TV/XYQXB/神马筛选.json","jar":"http://diver88.github.io/TV/XYQXB/XYQBiu_0828.jar;md5;8B3F5374203DAB31865E0064314CB4D6"},
-{"key": "csp_XYQBiu_虎牙","name": "虎牙直接播放写法测试(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://diver88.github.io/TV/XYQXB/虎牙代理直链.json","jar":"http://diver88.github.io/TV/XYQXB/XYQBiu_0828.jar;md5;8B3F5374203DAB31865E0064314CB4D6"}
+{"key": "csp_XYQBiu_神马","name": "神马筛选(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://diver88.github.io/TV/XYQXB/神马筛选.json"},
+{"key": "csp_XYQBiu_虎牙","name": "虎牙(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://diver88.github.io/TV/XYQXB/虎牙代理直链.json"}
   ],
 
 
