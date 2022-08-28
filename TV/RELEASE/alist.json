@@ -7,38 +7,35 @@
 
 
 "sites":[
-{"key": "Bili","name": "å“”å“©å¥—é¤","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://diver88.github.io/TV/BILI/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"},
-
-{"key": "Bili_ych","name": "æ¼”å”±ä¼š","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://diver88.github.io/TV/BILI/%E5%93%94%E5%93%A9%E6%BC%94%E5%94%B1%E4%BC%9A.json"},
-
-{"key": "Bili_xq","name": "æˆæ›²","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://diver88.github.io/TV/BILI/%E5%93%94%E5%93%A9%E6%88%8F%E6%9B%B2.json"},
-
-{"key": "Bili_kt","name": "å°åˆé«˜è¯¾å ‚","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://diver88.github.io/TV/BILI/%E5%93%94%E5%93%A9%E8%AF%BE%E5%A0%82.json"},
-
-{"key": "Bili_jsj","name": "è®¡ç®—æœºç¼–ç¨‹","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://diver88.github.io/TV/BILI/%E5%93%94%E5%93%A9%E8%AE%A1%E7%AE%97%E6%9C%BA.json"}
+{"key":"alist","name":"----Ôİ²»Ö§³Ötakagen°æ±¾----","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_Alist1","name": "??Alist1¡²SP¡³","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.hikerfans.com"},
+{"key": "csp_Alist2","name": "??Alist2¡²SP¡³","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://drive.9t.ee"},
+{"key": "csp_Alist3","name": "??Alist3¡²SP¡³","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.youte.ml"},
+{"key": "csp_Alist4","name": "??Alist4¡²SP¡³","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://wangpan.sangxuesheng.com"},
+{"key": "csp_Alist5","name": "??Alist5¡²SP¡³","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.142856.xyz"},
+{"key":"t4public","name":"??T4¹«¹²","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3a49cf29cf20410997247c6eb4509be9","searchable":1,"quickSearch":1,"filterable":0,"ext":""}
 ],
 
 
 "parses":[
-{"name":"è§£æèšåˆ","type":3,"url":"Demo"},
-{"name":"Jsonå¹¶å‘","type":2,"url":"Parallel"},
-{"name":"Jsonè½®è¯¢","type":2,"url":"Sequence"},
+{"name":"½âÎö¾ÛºÏ","type":3,"url":"Demo"},
+{"name":"Json²¢·¢","type":2,"url":"Parallel"},
+{"name":"JsonÂÖÑ¯","type":2,"url":"Sequence"},
 
-//åˆšåˆš0805
 {
-		"name": "GGTVå¿«é€Ÿ",
+		"name": "GGTV¿ìËÙ",
 		"type": 1,
 		"url": "https://play.fuqizhishi.com/ggtv/API.php?appkey=QQ172598364&url="
 	}, {
-		"name": "m3u8tvé«˜æ¸…",
+		"name": "m3u8tv¸ßÇå",
 		"type": 0,
 		"url": "https://jx.m3u8.tv/jiexi/?url="
 	}, {
-		"name": "parwixç¨³å®š",
+		"name": "parwixÎÈ¶¨",
 		"type": 0,
 		"url": "https://jx.bozrc.com:4433/player/?url="
 	}, {
-		"name": "OKjxç»¼åˆ",
+		"name": "OKjx×ÛºÏ",
 		"type": 0,
 		"url": "https://okjx.cc/?url="
 	}
@@ -47,7 +44,7 @@
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
-{"group":"è½¯è§£ç ","options":[
+{"group":"Èí½âÂë","options":[
 {"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
 {"category":4,"name":"framedrop","value":"1"},
@@ -64,7 +61,7 @@
 {"category":4,"name":"mediacodec-hevc","value":"0"},
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}
 ]},
-{"group":"ç¡¬è§£ç ","options":[
+{"group":"Ó²½âÂë","options":[
 {"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
 {"category":4,"name":"framedrop","value":"1"},

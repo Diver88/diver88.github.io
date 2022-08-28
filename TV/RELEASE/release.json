@@ -2,4 +2,5 @@
 {"name":"爬虫源","apiurl":"http://diver88.github.io/TV/RELEASE/reptile.json"},
 {"name":"嗅探源","apiurl":"http://diver88.github.io/TV/RELEASE/sniffsrc.json"},
 {"name":"BILI源","apiurl":"https://diver88.github.io/TV/BILI/bili.txt"},
+{"name":"ALIST","apiurl":"http://diver88.github.io/TV/RELEASE/alist.json"}
 {"name":"测试0826+","apiurl":"http://52bsj.vip:81/api/v3/file/get/41355/0826.json?sign=_lFIrvSQcxNeKNkkd4bOx2DD_H4MYLOir-O8eY3ULHE%3D%3A0"}]
