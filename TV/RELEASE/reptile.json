@@ -1,5 +1,6 @@
 {
   "spider": "https://diver88.github.io/TV/JAR/kvymin0826.jar;md5;19F13E0DF418CCE76C9D27DB305C2FAF",
+  
   "sites": [
     {
       "key": "Lezhu_spider",
@@ -457,7 +458,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext="
+            "proxy://do=live&type=txt&ext=aHR0cDovL2RpdmVyODguZ2l0aHViLmlvL1RWL0xJVkUvbGl2ZTA4MjgudHh0"
           ]
         }
       ]
