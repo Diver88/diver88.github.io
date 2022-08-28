@@ -1,6 +1,6 @@
 
 {
-"spider":"http://diver88.github.io/TV/BILI/Bl1.jar",
+"spider":"http://diver88.github.io/TV/BILI/Bl.jar",
 "wallpaper": "https://picsum.photos/1280/720/?blur=1",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMTg2NzkvbGl2ZTA4MDUudHh0P3NpZ249bzlCODRITUhkbUlDUGZabGVaVnZXSzk4Y2NOeWtkZGJQemlEaDVuMDVTRSUzRCUzQTA="]}]}],
