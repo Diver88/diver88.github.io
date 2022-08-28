@@ -1,184 +1,53 @@
 
 {
-"spider":"http://diver88.github.io/TV/BILI/Bl1.jar",
+"spider":"http://diver88.github.io/TV/BILI/Bl.jar",
 "wallpaper": "https://picsum.photos/1280/720/?blur=1",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMTg2NzkvbGl2ZTA4MDUudHh0P3NpZ249bzlCODRITUhkbUlDUGZabGVaVnZXSzk4Y2NOeWtkZGJQemlEaDVuMDVTRSUzRCUzQTA="]}]}],
 
 
 "sites":[
-{"key": "Bili","name": "???ﬂŸ¡®Ã◊≤Õ","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.css.lc/api/v3/file/get/17877/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json?sign=CqpdhLfxmbVkiwImOSJlBKbNmb_ww8LyZB49q6BUCus%3D%3A0"},
+{"key": "Bili","name": "???ÂìîÂì©Â•óÈ§ê","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.css.lc/api/v3/file/get/17877/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json?sign=CqpdhLfxmbVkiwImOSJlBKbNmb_ww8LyZB49q6BUCus%3D%3A0"},
 
-{"key": "Bili_ych","name": "??—›≥™ª·","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.css.lc/api/v3/file/get/17876/%E5%93%94%E5%93%A9%E6%BC%94%E5%94%B1%E4%BC%9A.json?sign=tg2DspY-zvvQrPzJ0IBV6vr5DY4e3JSgdQHqToY3-vs%3D%3A0"},
+{"key": "Bili_ych","name": "??ÊºîÂî±‰ºö","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.css.lc/api/v3/file/get/17876/%E5%93%94%E5%93%A9%E6%BC%94%E5%94%B1%E4%BC%9A.json?sign=tg2DspY-zvvQrPzJ0IBV6vr5DY4e3JSgdQHqToY3-vs%3D%3A0"},
 
-{"key": "Bili_xq","name": "??œ∑«˙","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.css.lc/api/v3/file/get/18786/%E5%93%94%E5%93%A9%E6%88%8F%E6%9B%B2.json?sign=Mnt7YZc4NzvFn6Pa4ST4Pt-ZHht6Zci859a_tUoD3ro%3D%3A0"},
+{"key": "Bili_xq","name": "??ÊàèÊõ≤","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.css.lc/api/v3/file/get/18786/%E5%93%94%E5%93%A9%E6%88%8F%E6%9B%B2.json?sign=Mnt7YZc4NzvFn6Pa4ST4Pt-ZHht6Zci859a_tUoD3ro%3D%3A0"},
 
-{"key": "Bili_kt","name": "??–°≥ı∏ﬂøŒÃ√","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://diver88.github.io/TV/BILI/%E5%93%94%E5%93%A9%E8%AF%BE%E5%A0%82.json"},
+{"key": "Bili_kt","name": "??Â∞èÂàùÈ´òËØæÂ†Ç","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://diver88.github.io/TV/BILI/%E5%93%94%E5%93%A9%E8%AF%BE%E5%A0%82.json"},
 
-{"key": "Bili_jsj","name": "??º∆À„ª˙±‡≥Ã","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.css.lc/api/v3/file/get/17879/%E5%93%94%E5%93%A9%E8%AE%A1%E7%AE%97%E6%9C%BA.json?sign=sQIBe_fHiyhwEd-f6v9Y9fmV918wcq8OFQz7Wdcwe30%3D%3A0"}
+{"key": "Bili_jsj","name": "??ËÆ°ÁÆóÊú∫ÁºñÁ®ã","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.css.lc/api/v3/file/get/17879/%E5%93%94%E5%93%A9%E8%AE%A1%E7%AE%97%E6%9C%BA.json?sign=sQIBe_fHiyhwEd-f6v9Y9fmV918wcq8OFQz7Wdcwe30%3D%3A0"}
 ],
 
 
-"parses":[{
-      "name": "Ω‚Œˆæ€∫œ",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "Json≤¢∑¢",
-      "type": 2,
-      "url": "Parallel"
-    },
-    {
-      "name": "Json¬÷—Ø",
-      "type": 2,
-      "url": "Sequence"
-    },
-    {
-      "name": "GGTV",
-      "type": 1,
-      "url": "https://play.fuqizhishi.com/gang0823/API.php?appkey=QQ172598364&url="
-    },
-    {
-      "name": "”Õπ˚",
-      "type": 1,
-      "url": "http://json.youguo520.top/fufeng/?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "iqiyi",
-          "∆Ê“’",
-          "∞Æ∆Ê“’",
-          "qq",
-          "Ã⁄—∂",
-          "youku",
-          "”≈ø·",
-          "pptv",
-          "PPTV",
-          "letv",
-          "¿÷ ”",
-          "bilibili",
-          "ﬂŸ¡®ﬂŸ¡®",
-          "ﬂŸ¡®",
-          "mgtv",
-          "√¢π˚",
-          "xigua",
-          "Œ˜πœ",
-          "sohu",
-          "À—∫¸",
-          "cntv",
-          "cctv",
-          "—Î ”",
-          "1905",
-          "m1905"
-        ],
-        "header": {
-          "User-Agent": "Dart/2.14 (dart:io)"
-        }
-      }
-    },
-    {
-      "name": "∑ˆ∑Á",
-      "type": 1,
-      "url": "https://vip.byteamone.cn/api/?key=6sdRk7xF8yaTMlRoqr&url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "iqiyi",
-          "∆Ê“’",
-          "∞Æ∆Ê“’",
-          "qq",
-          "Ã⁄—∂",
-          "youku",
-          "”≈ø·",
-          "pptv",
-          "PPTV",
-          "letv",
-          "¿÷ ”",
-          "bilibili",
-          "ﬂŸ¡®ﬂŸ¡®",
-          "ﬂŸ¡®",
-          "mgtv",
-          "√¢π˚",
-          "xigua",
-          "Œ˜πœ",
-          "sohu",
-          "À—∫¸",
-          "cntv",
-          "cctv",
-          "—Î ”",
-          "1905",
-          "m1905"
-        ]
-      }
-    },
-    {
-      "name": "aiku",
-      "type": 1,
-      "url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="
-    },
-    {
-      "name": "∞Æ∂π",
-      "type": 1,
-      "url": "http://id190.tpddns.cn:81/jsonch/?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "iqiyi",
-          "∆Ê“’",
-          "∞Æ∆Ê“’",
-          "qq",
-          "Ã⁄—∂",
-          "youku",
-          "”≈ø·",
-          "pptv",
-          "PPTV",
-          "letv",
-          "¿÷ ”",
-          "bilibili",
-          "ﬂŸ¡®ﬂŸ¡®",
-          "ﬂŸ¡®",
-          "mgtv",
-          "√¢π˚",
-          "xigua",
-          "Œ˜πœ",
-          "sohu",
-          "À—∫¸",
-          "cntv",
-          "cctv",
-          "—Î ”",
-          "1905",
-          "m1905"
-        ]
-      }
-    },
-    {
-      "name":"∏ﬂÀŸvip",
-      "type":0,
-      "url":"https://vip.parwix.com:4433/player/?url=",
-      "ext":{"flag":["qq","Ã⁄—∂","qiyi","iqiyi","∞Æ∆Ê“’","∆Ê“’","youku","”≈ø·","mgtv","√¢π˚","letv","¿÷ ”","pptv","PPTV","sohu","bilibili","ﬂŸ¡®ﬂŸ¡®","ﬂŸ¡®"]}
-    },
-    {
-      "name": "m3u8tv",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
-      "name": "parwix",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url="
-    },
-    {
-      "name": "OKjx",
-      "type": 0,
-      "url": "https://okjx.cc/?url="
-    }
+"parses":[
+{"name":"Ëß£ÊûêËÅöÂêà","type":3,"url":"Demo"},
+{"name":"JsonÂπ∂Âèë","type":2,"url":"Parallel"},
+{"name":"JsonËΩÆËØ¢","type":2,"url":"Sequence"},
+
+//ÂàöÂàö0805
+{
+		"name": "GGTVÂø´ÈÄü",
+		"type": 1,
+		"url": "https://play.fuqizhishi.com/ggtv/API.php?appkey=QQ172598364&url="
+	}, {
+		"name": "m3u8tvÈ´òÊ∏Ö",
+		"type": 0,
+		"url": "https://jx.m3u8.tv/jiexi/?url="
+	}, {
+		"name": "parwixÁ®≥ÂÆö",
+		"type": 0,
+		"url": "https://jx.bozrc.com:4433/player/?url="
+	}, {
+		"name": "OKjxÁªºÂêà",
+		"type": 0,
+		"url": "https://okjx.cc/?url="
+	}
 ],
 
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
-{"group":"»ÌΩ‚¬Î","options":[
+{"group":"ËΩØËß£Á†Å","options":[
 {"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
 {"category":4,"name":"framedrop","value":"1"},
@@ -195,7 +64,7 @@
 {"category":4,"name":"mediacodec-hevc","value":"0"},
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}
 ]},
-{"group":"”≤Ω‚¬Î","options":[
+{"group":"Á°¨Ëß£Á†Å","options":[
 {"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
 {"category":4,"name":"framedrop","value":"1"},
