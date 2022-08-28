@@ -7,35 +7,35 @@
 
 
 "sites":[
-{"key":"alist","name":"----Ôİ²»Ö§³Ötakagen°æ±¾----","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_Alist1","name": "??Alist1¡²SP¡³","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.hikerfans.com"},
-{"key": "csp_Alist2","name": "??Alist2¡²SP¡³","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://drive.9t.ee"},
-{"key": "csp_Alist3","name": "??Alist3¡²SP¡³","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.youte.ml"},
-{"key": "csp_Alist4","name": "??Alist4¡²SP¡³","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://wangpan.sangxuesheng.com"},
-{"key": "csp_Alist5","name": "??Alist5¡²SP¡³","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.142856.xyz"},
-{"key":"t4public","name":"??T4¹«¹²","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3a49cf29cf20410997247c6eb4509be9","searchable":1,"quickSearch":1,"filterable":0,"ext":""}
+
+{"key": "csp_Alist1","name": "ğŸš©Alist1ã€”SPã€•","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.hikerfans.com"},
+{"key": "csp_Alist2","name": "ğŸš©Alist2ã€”SPã€•","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://drive.9t.ee"},
+{"key": "csp_Alist3","name": "ğŸš©Alist3ã€”SPã€•","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.youte.ml"},
+{"key": "csp_Alist4","name": "ğŸš©Alist4ã€”SPã€•","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://wangpan.sangxuesheng.com"},
+{"key": "csp_Alist5","name": "ğŸš©Alist5ã€”SPã€•","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.142856.xyz"},
+{"key":"t4public","name":"??ğŸš¾T4å…¬å…±","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3a49cf29cf20410997247c6eb4509be9","searchable":1,"quickSearch":1,"filterable":0,"ext":""}
 ],
 
 
 "parses":[
-{"name":"½âÎö¾ÛºÏ","type":3,"url":"Demo"},
-{"name":"Json²¢·¢","type":2,"url":"Parallel"},
-{"name":"JsonÂÖÑ¯","type":2,"url":"Sequence"},
+{"name":"è§£æèšåˆ","type":3,"url":"Demo"},
+{"name":"Jsonå¹¶å‘","type":2,"url":"Parallel"},
+{"name":"Jsonè½®è¯¢","type":2,"url":"Sequence"},
 
 {
-		"name": "GGTV¿ìËÙ",
+		"name": "GGTVå¿«é€Ÿ",
 		"type": 1,
 		"url": "https://play.fuqizhishi.com/ggtv/API.php?appkey=QQ172598364&url="
 	}, {
-		"name": "m3u8tv¸ßÇå",
+		"name": "m3u8tvé«˜æ¸…",
 		"type": 0,
 		"url": "https://jx.m3u8.tv/jiexi/?url="
 	}, {
-		"name": "parwixÎÈ¶¨",
+		"name": "parwixç¨³å®š",
 		"type": 0,
 		"url": "https://jx.bozrc.com:4433/player/?url="
 	}, {
-		"name": "OKjx×ÛºÏ",
+		"name": "OKjxç»¼åˆ",
 		"type": 0,
 		"url": "https://okjx.cc/?url="
 	}
@@ -44,7 +44,7 @@
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
-{"group":"Èí½âÂë","options":[
+{"group":"è½¯è§£ç ","options":[
 {"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
 {"category":4,"name":"framedrop","value":"1"},
@@ -61,7 +61,7 @@
 {"category":4,"name":"mediacodec-hevc","value":"0"},
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}
 ]},
-{"group":"Ó²½âÂë","options":[
+{"group":"ç¡¬è§£ç ","options":[
 {"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
 {"category":4,"name":"framedrop","value":"1"},
