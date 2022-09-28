@@ -24,7 +24,6 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 
-//刚刚0805
 {
 		"name": "GGTV快速",
 		"type": 1,
