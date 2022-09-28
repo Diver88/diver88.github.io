@@ -1,5 +1,9 @@
 {
   "classes": [
+  {
+      "type_name": "小升初",
+      "type_id": "小升初"
+    },
     {
       "type_name": "七年级",
       "type_id": "七年级"
