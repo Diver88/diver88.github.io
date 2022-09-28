@@ -7,7 +7,7 @@
 
 
 "sites":[
-{"key": "Bili","name": "初中课程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://diver88.github.io/TV/BILI/初中课程.json"},
+{"key": "Bili_czkc","name": "初中课程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://diver88.github.io/TV/BILI/初中课程.json"},
 
 {"key": "Bili","name": "哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://diver88.github.io/TV/BILI/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"},
 
