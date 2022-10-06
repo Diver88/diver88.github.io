@@ -18,9 +18,9 @@
 	  
 	
  
- {"key":"csp_biubiu_斗鱼","name":"🐬斗鱼TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2735/%E6%96%97%E9%B1%BC0713.json?sign=Ihmy6E807CmsjDP6e4m6pOBr8ct5KtTIaOHJPOacBwE%3D%3A0"},
+ {"key":"csp_biubiu_斗鱼","name":"🐬斗鱼TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2735/%E6%96%97%E9%B1%BC0713.json?sign=Ihmy6E807CmsjDP6e4m6pOBr8ct5KtTIaOHJPOacBwE%3D%3A0","jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/888.png;md5;86A2E6D82742D949C4FDC0B981085655"},
 
-{"key":"csp_XYQBiu_虎牙直播","name":"🎯虎牙直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XYQ/%e8%99%8e%e7%89%99.json"},
+{"key":"csp_XYQBiu_虎牙直播","name":"🎯虎牙直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XYQ/%e8%99%8e%e7%89%99.json","jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/888.png;md5;86A2E6D82742D949C4FDC0B981085655"},
 	  
     //spider java
     {"key": "Lezhu_spider","name": "🐞乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
