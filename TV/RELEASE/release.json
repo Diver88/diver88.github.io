@@ -1,4 +1,5 @@
 [
+{"name":"主力源","apiurl":"https://diver88.github.io/TV/NEWTV/Text/pyn0.json"},
 {"name":"爬虫源","apiurl":"http://diver88.github.io/TV/RELEASE/reptile.json"},
 {"name":"嗅探源","apiurl":"http://diver88.github.io/TV/RELEASE/sniffsrc.json"},
 {"name":"BILI源","apiurl":"https://diver88.github.io/TV/BILI/bili.txt"},
