@@ -18,14 +18,14 @@
 	  
 	
  
+ {"key":"csp_biubiu_斗鱼","name":"🐬斗鱼TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2735/%E6%96%97%E9%B1%BC0713.json?sign=Ihmy6E807CmsjDP6e4m6pOBr8ct5KtTIaOHJPOacBwE%3D%3A0"},
+
+{"key":"csp_XYQBiu_虎牙直播","name":"🎯虎牙直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XYQ/%e8%99%8e%e7%89%99.json"},
 	  
     //spider java
     {"key": "Lezhu_spider","name": "🐞乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
     {"key":"If101","name":"🐞If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://diver88.github.io/TV/NEWTV/Jar/91d.jar;md5;A5ED2B58063A1915FF1FE0B83DBEF99D"}, 
     {"key":"if101资源","name":" 🍁If101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
-    //{"key":"csp_xpath_独播库","name":" 🌾独播库(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/duboku.json"},
-    //{"key":"唐人街","name":" 🍁唐人街","type":0,"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":[]},  
-    //{"key":"csp_xpath_HOHO","name":"HOHO(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/jinwenbin75/wenbin/raw/main/xp/hoho.json"}, 
     {"key":"csp_xpath_HOHO","name":" 🌾HOHO(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/Hoho.json"}, 
     {"key":"csp_xpath_gimy2","name":" 🌾GIMY(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/Gimy2.json"},
     {"key":"csp_appysv2_M2_暖光影视","name":"暖光影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
@@ -57,22 +57,8 @@
     {"key": "csp_Yisou","name":"🐞易搜盘(SP)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8","jar":"https://diver88.github.io/TV/NEWTV/Jar/0922.jar"},
     {"key": "csp_Gitcafe","name":"🐞阿里纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8","jar":"https://diver88.github.io/TV/NEWTV/Jar/0922.jar"},  
     {"key": "csp_AliPS","name":"🐞阿里喵搜(SP)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8","jar":"https://diver88.github.io/TV/NEWTV/Jar/0922.jar"},
-    //{"key":"Zhaozy","name":"🐞找资源(SP)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9"},
-    //{"key":"push_agent","name":"🎲推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"},
-
-    //{"key":"Gitcafe","name":"🐞小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"27b06d5221a24199b15f2e573d847430"},
-    //{"key":"Gitcafe","name":"📚小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"7b78e7a5aa8a4a8bb722ec7e171d9438"}, 
-    //{"key":"csp_GitCafe","name":"🐞小纸条(云盘)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "14ab7929c5724ffd9c3431d8fa19d421"},
-    //{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"ad3c78559a494bde814f1a6c8c40db51"},
-    //{"key":"Gitcafe","name":"🦊小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
     {"key":"csp_FindZY","name":"🐞盘搜2","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":0},
-    //{"key":"FindZY","name":"🐱找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
-    //{"key":"FindZY","name":"找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"ad3c78559a494bde814f1a6c8c40db51"},
-    //{"key":"AliPS","name":"🐞盘搜1","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"14ab7929c5724ffd9c3431d8fa19d421","jar":"https://diver88.github.io/TV/NEWTV/Jar/0922.jar"},
-    //{"key":"AliPS","name":"🐱盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
-    //{"key": "push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"ad3c78559a494bde814f1a6c8c40db51"},
-    //{"key": "push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
-       
+    
     {"key":"csp_Zhaozy","name":"找资源(云盘)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "8f0b3f0dc1834f309f077ea5549e99a8","jar":"https://diver88.github.io/TV/NEWTV/Jar/0922.jar"},
     {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "8f0b3f0dc1834f309f077ea5549e99a8","jar":"https://diver88.github.io/TV/NEWTV/Jar/0922.jar"},
     //{"key": "csp_Jianying","name": "🐞简影(SP)","type": 3,"api": "csp_JianYing","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjo1MzE4LCJDcmVhdGVkQXQiOiIyMDIyLTAzLTE4VDE5OjI0OjM2LjkzOCswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDktMDVUMTA6NTY6MjguMDAzKzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMzExMTI0ODcwMEBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJiOGIwNmU2ZS1jZjkwLTQ1NDItYmVjMS05NDk4OGVhMDE4NGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo1NjoyOC4wMDIrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYzMDI2NTAyLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.m92i6og64WbwmCHYnI9CWL--Y1NwdMhvH4-Kn6FmPk8"},
@@ -309,43 +295,7 @@
 
 
 
-    //{"key":"csp_xpath_Auete","name":" 🌾AUETE(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/auete.json"},
- 	//{"key":"csp_xpath_lranc","name":" 🌾天天影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/lranc.json"},
-	//{"key":"csp_xpath_xxys520","name":" 🌾小熊影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/xxys520.json"},
-	//{"key":"csp_xpath_喵乐","name":" 🌾喵乐(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/%E5%96%B5%E4%B9%90.json"},
-    //{"key":"csp_xpath_dianyinniu","name":" 🌾电影牛(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/dyn.json"},
-    //{"key": "csp_xpath_F7好看剧","name": " 🌾F7好看剧(XPF)️","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://diver88.github.io/TV/NEWTV/MaooXP/F7好看剧.json"},
-    //{"key":"csp_xpath_rttks2","name":" 🌾人人ys(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/rttks.json"},
-    //{"key":"csp_xpath_vip1280","name":" 🌾VIP(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/vip1280.json"},
-    //{"key": "csp_chinady", "name": "🔍中国电影(XPF)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://diver88.github.io/TV/NEWTV/MaooXP/chinady.json"}, 
-	//{"key":"csp_xpath_jpys","name":" 🌾极品影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/jipin.json"},
-	//{"key":"csp_xpath_jpys2","name":" 🌾极品影视2(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/jpys.json"},
-	//{"key":"csp_xpath_hhys","name":" 🌾火火影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/huohuo99.json"},
-	//{"key":"csp_xpath_dynn","name":" 🌾电影牛(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/dianyingn.json"},
-	//{"key":"csp_xpath_olevod","name":" 🌾欧乐影院-Exo","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/olevod.json"},
-	//{"key":"csp_xpath_lezhutv2","name":" 🌾乐猪TV(XPF)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/lezhutv2.json"},
-	//{"key":"csp_xpath_lezhutv","name":" 🌾乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/lezhutv.json"},
- 	//{"key":"csp_xpath_libv","name":"Libvio(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/libv.json"},
-	//{"key":"csp_xpath_naifeiorg","name":" 🌾奈飞中文(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/naifeiorg.json"},
-	//{"key":"csp_xpath_xiangdao","name":"农民影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/xiangdao.json"},
-	//{"key":"csp_xpath_lkvod","name":"耐看点播(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/lkvod.json"},
-	//{"key":"csp_xpath_gumi","name":" 🌾大师兄(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/Jumi.json"},
-	//{"key":"csp_xpath_dsxys","name":"大师兄2(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/tvci.json"},
-	//{"key":"csp_xpath_bttwoo","name":"两个BT(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/bttwoo.json"},
-	//{"key":"csp_xpath_bidiys","name":"哔嘀影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/bidi.json"},
-	//{"key":"csp_xpath_bidys","name":"哔嘀影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/biditd.json"},
-	//{"key":"csp_xpath_doujiaow","name":" 🌾豆角网(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/doujiaow.json"},
-	//{"key":"csp_xpath_pianba","name":" 🌾片吧影院(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/pianba.json"},
-	//{"key":"csp_xpath_zj883","name":"追剧网(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/zj883.json"},
-	//{"key":"csp_xpath_wmkk","name":" 🌾完美看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/wanmeikk.json"},
-	//{"key":"csp_xpath_ikan6","name":" 🌾爱看影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/ikan6.json"},
- 	//{"key":"csp_xpath_yarnet","name":"鸭奈飞(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/yanet.json"},
-	//{"key":"csp_xpath_nailuo","name":"奈落影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/newfii.json"},
-	//{"key":"csp_xpath_lanmeiys","name":"蓝莓影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/lanmei.json"},
-	//{"key":"csp_appys_美剧虫","name":"美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
-	//{"key":"csp_xpath_qdytv","name":" 🌾米来影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/qdytv.json"},
-	//{"key":"csp_xpath_miaomiao","name":" 🌾喵喵影视(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://diver88.github.io/TV/NEWTV/MaooXP/miaomiao.json"},
-     
+
 
 //{"key":"QXB规则","name":"↓〔QXB新规则指引〕↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
